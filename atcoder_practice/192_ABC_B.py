@@ -27,6 +27,5 @@ def f(N):
 a0 = N
 for num in range(K):
     a0 = f(a0)
-    #print("num=", num, "a0=", a0)
 
-print(a0)
+print(a)
